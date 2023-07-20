@@ -1,6 +1,5 @@
 ![t](https://github.com/RillaryDev/RillaryDev/assets/94876655/839115f9-e728-47a5-b6cd-b3c1823112aa)
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=783CD7&background=D99BFF&center=true&vCenter=true&width=910&height=52&lines=Hi!+I%C2%B4m+Rillary)](https://git.io/typing-svg)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RillaryDev&theme=midnight-purple&hide_border=false)<br/>
