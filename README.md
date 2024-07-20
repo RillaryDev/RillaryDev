@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=783CD7&background=D99BFF&center=true&vCenter=true&width=910&height=52&lines=Hi!+I%C2%B4m+Rillary)](https://git.io/typing-svg)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=RillaryDev&theme=midnight-purple&hide_border=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RillaryDev&theme=midnight-purple&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RillaryDev&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
